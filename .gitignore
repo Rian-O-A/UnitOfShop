@@ -1,0 +1,69 @@
+# Arquivos e pastas específicos do Visual Studio
+.vscode/
+.vs/
+bin/
+obj/
+TestResults/
+[Bb]in/
+[Ii]ntermediate/
+[Tt]est[Rr]esult*/
+[Ss]tyle[Cc]op.*
+[Nn]uget/
+[Rr]eSharper*/
+*.suo
+*.user
+*.sln.docstates
+
+# Arquivos de compilação
+*.dll
+*.exe
+*.pdb
+*.dll.mdb
+*.exe.mdb
+*.xml
+*.resx
+*.resources
+
+# Arquivos de compilação do MSBuild
+[Bb]in/
+[Oo]bj/
+
+# Cache de ferramentas .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Configurações de ambiente
+*.suo
+*.user
+*.userosscache
+*.suo
+[Tt]humbs.db
+Desktop.ini
+
+# Arquivos de saída da IDE
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.sdf
+*.cachefile
+
+# Logs e registros
+[Tt]est[Rr]esult*/
+nunit-*.xml
+TestResult.xml
+[Tt]est[Ss]tudio/
+[Tt]est[Ss]tudio.[Ee]s[bB]uild.log
+[Tt]est[Ss]tudio.[Ee]s[bB]uild.err
+[Tt]est[Ss]tudio.[Oo]ut
+
+# Reciclagem do Windows
+$RECYCLE.BIN/
+
+# Fim de linha da IDE do Windows
+[Bb]in/
+[Oo]bj/
+
+# Arquivos de publicação
+[Pp]ublish/
